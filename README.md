@@ -1,1 +1,2 @@
 # SBSPS-Challenge-912-Sentiment-Analysis-of-COVID-19-Tweets---Visualization-Dashboard
+To study public sentiments, we chose Twitter as our target field. As one of the world’s biggest social network platforms, Twitter hosts abundant user-generated posts, which closely reflect the public’s reactions towards this pandemic with low latency. By deploying Natural Language Processing (NLP) methods on it, we were able to extract and quantify the public sentiments over time.
